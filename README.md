@@ -34,7 +34,7 @@ The video player synchronizes the video with the transcript in two ways:
 
 2. When users click any part of the transcript, they will be taken to the appropriate place in the video.
 
-- [x] [Project 7: Guessing Game Show App](https://github.com/kristyburge/techdegree-game-show-app)
+- [x] [Project 7: Guessing Game Show App](https://github.com/kristyburge/techdegree-game-show-app) - *Final Grade:* **Exceeds Expectations** :100::sparkles:
 
 Created a Game Show App with vanilla JavaScript using arrays, functions, loops, conditionals, and events.
 
