@@ -24,7 +24,7 @@ Created a web style guide using Sass. Style guides are used to help maintain con
 
 Built an HTML5 video player using JavaScript and the HTML5 Video API. This project also uses MediaElementJS and SASS.
 
-## How it works: 
+**How it works:**
 The video player synchronizes the video with the transcript in two ways:
 
 1. The transcript's current position is highlighted as the video progresses.
@@ -35,7 +35,7 @@ The video player synchronizes the video with the transcript in two ways:
 
 Created a Game Show App with vanilla JavaScript using arrays, functions, loops, conditionals, and events.
 
-## GAME RULES:
+**GAME RULES:**
 * Guess the phrase by selecting a letter on the screen's keyboard
 * You get 5 chances.
 * Guess the phrase before you run out of turns!
