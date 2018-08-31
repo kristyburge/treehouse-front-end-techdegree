@@ -52,7 +52,7 @@ This project uses optimized SVGs and CSS3 Animations & Transforms to create a fu
 - [x] [Project 9: Web App Dashboard](https://github.com/kristyburge/techdegree-web-app-dashboard) - 
 *Final Grade:* **Exceeds Expectations** :100::sparkles:
 
-Built the front end of an interactive dashboard for a web application from scratch using advanced web techniques including SVG graphics and JavaScript programming. Implemented JavaScript-driven charts and graphics using the Charts.js library. Users can save settings to local storage. 
+Built the front end of an interactive dashboard for a web application from scratch using advanced web techniques including SVG graphics and JavaScript programming. Implemented JavaScript-driven charts and graphics using the [Chart.js library](https://www.chartjs.org/). Users can save settings to local storage. 
 
 - [ ] [Project 10: Employee Directory with Public API](https://github.com/kristyburge/) - *Final Grade:*  **Not Submitted** :construction:
 
