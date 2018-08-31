@@ -49,15 +49,14 @@ Created a Game Show App with vanilla JavaScript using arrays, functions, loops, 
 
 This project uses optimized SVGs and CSS3 Animations & Transforms to create a fun site devoted to Corgi Kennels. 
 
-- [ ] [Project 9: Web App Dashboard](https://github.com/kristyburge/) - 
-*Final Grade:*  **Not Submitted** :construction:
+- [x] [Project 9: Web App Dashboard](https://github.com/kristyburge/techdegree-web-app-dashboard) - 
+*Final Grade:* **Exceeds Expectations** :100::sparkles:
 
-In progress... This web application dashboard will feature JavaScript-driven charts and graphics. 
+Built the front end of an interactive dashboard for a web application from scratch using advanced web techniques including SVG graphics and JavaScript programming. Implemented JavaScript-driven charts and graphics using the Charts.js library. Users can save settings to local storage. 
 
+- [ ] [Project 10: Employee Directory with Public API](https://github.com/kristyburge/) - *Final Grade:*  **Not Submitted** :construction:
 
-- [ ] [Project 10: Employee Directory with Public API](https://github.com/kristyburge/) - *Final Grade:*  **Not Submitted** 
-
-Brief description of the project
+Built the front end of an employee directory from scratch and update the dynamic data through a public API. The employee directory features 12 employees and when an employee's card is clicked on, a modal window appears displaying more information about that employee. This project uses JavaScript, jQuery, and JSON objects through the [Random User Generator API](https://randomuser.me).
 
 - [ ] [Project 11: React Flickr Gallery](https://github.com/kristyburge/) - *Final Grade:*  **Not Submitted** 
 
