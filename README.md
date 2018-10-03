@@ -58,7 +58,7 @@ Built the front end of an interactive dashboard for a web application from scrat
 
 Built the front end of an employee directory from scratch and update the dynamic data through a public API. The employee directory features 12 employees (which update each time the app is displayed) and when an employee's card is clicked on, a modal window appears displaying more information about that employee. This project uses JavaScript, jQuery, and JSON objects through the [Random User Generator API](https://randomuser.me).
 
-- [x] [Project 11: React Flickr Gallery](https://github.com/kristyburge/) - *Final Grade:*  **Exceeds Expectations** :100::sparkles:
+- [x] [Project 11: React Flickr Gallery](https://github.com/kristyburge/techdegree-react-flickr-gallery) - *Final Grade:*  **Exceeds Expectations** :100::sparkles:
 
 Built an image gallery using React and the Flickr API. I bootstrapped the project using [create-react-app](https://github.com/facebook/create-react-app). I built out the components from a mockup, integrated CSS, and set up routing. This project was not just about learning React, but also about learning how to handle URL routing, modular code design, setting and using state and stateless components, and fetching JSON data via an API. 
 
