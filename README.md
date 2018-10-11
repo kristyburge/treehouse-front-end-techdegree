@@ -62,6 +62,6 @@ Built the front end of an employee directory from scratch and update the dynamic
 
 Built an image gallery using React and the Flickr API. I bootstrapped the project using [create-react-app](https://github.com/facebook/create-react-app). I built out the components from a mockup, integrated CSS, and set up routing. This project was not just about learning React, but also about learning how to handle URL routing, modular code design, setting and using state and stateless components, and fetching JSON data via an API. 
 
-- [ ] [Project 12: Final Portfolio](https://github.com/kristyburge/) - *Final Grade:*  **Not Submitted**
+- [x] [Project 12: Final Portfolio](https://github.com/kristyburge/kristyburge.github.io) - *Final Grade:*  **Exceeds Expectations** :100::sparkles:
 
-The capstone project for the Front End Techdegree program
+The capstone project for the Front End Techdegree program is a portfolio of my work. I integrated multiple JavaScript interactions, FontAwesome SVG icons, and the Zurb Foundation framework. 
